@@ -1,29 +1,29 @@
 # 🖥️ Maria Brandão
 
-**`Estudante de Ciências da Computação`**
+**`Computer Science Student`**
 
-Sou estudante de Ciência da Computação no quarto semestre, e tenho um forte desejo de aprender e determinação para aprimorar minhas habilidades na área de tecnologia. Estou aprimorando meus conhecimentos em Python, Java, HTML/CSS, JavaScript e MySQL (MySQL) como parte da minha jornada de programação e trabalhando para construir minha carreira como Full-Stack e analista de dados. Tenho conhecimentos aprimorados em automação de processos, utilizo ferramentas como n8n.
-<br> Além do código, tenho uma grande paixão pela proficiência em idiomas. Falo inglês (B1), francês (B1) e japonês (A1), e espero me conectar com pessoas de diferentes culturas e viajar pelo mundo e acredito que a tecnologia possa me ajudar com isso. Depurar um programa ou aprender uma nova frase são desafios que me levam a crescer profissionalmente.
+I am a fourth-semester Computer Science student with a strong desire to learn and a determination to improve my skills in the technology field. I am enhancing my knowledge in Python, Java, HTML/CSS, JavaScript, and MySQL as part of my programming journey, and working toward building my career as a Full-Stack developer and Data Analyst. I also have advanced knowledge in process automation, using tools such as n8n.
+<br> Beyond coding, I have a great passion for language proficiency. I speak English (B1), French (B1), and Japanese (A1), and I hope to connect with people from different cultures and travel the world — I believe technology can help me achieve that. Debugging a program or learning a new phrase are challenges that help me grow professionally.
 
 <p align="left">
     <a href="https://github.com/MariaBrandao18?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Total Stars" 
+            title="GitHub Total Stars" 
             src="https://custom-icon-badges.demolab.com/github/stars/MariaBrandao18?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/MariaBrandao18?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/MariaBrandao18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://linkedin.com/in/maria-brandão-48b78a2b5">
         <img
           alt="LinkedIn"
-          title="Meu LinkedIn"
+          title="My LinkedIn"
           src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
@@ -31,7 +31,7 @@ Sou estudante de Ciência da Computação no quarto semestre, e tenho um forte d
 
 ---
 
-### ⌨️🖱️ Linguagens e Tecnologias
+### ⌨️🖱️ Languages and Technologies
 
 <img 
     align="left" 
@@ -109,7 +109,7 @@ Sou estudante de Ciência da Computação no quarto semestre, e tenho um forte d
 <br/>
 <br/>
 
-### 📈 Estatísticas
+### 📈 Statistics
 
 <p>
   <img 
@@ -117,14 +117,14 @@ Sou estudante de Ciência da Computação no quarto semestre, e tenho um forte d
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MariaBrandao18&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MariaBrandao18&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaBrandao18&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaBrandao18&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
