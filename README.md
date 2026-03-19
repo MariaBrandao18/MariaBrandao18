@@ -2,7 +2,7 @@
 
 **`Computer Science Student`**
 
-I am a fourth-semester Computer Science student with a strong desire to learn and a determination to improve my skills in the technology field. I am enhancing my knowledge in Python, Java, HTML/CSS, JavaScript, and MySQL as part of my programming journey, and working toward building my career as a Full-Stack developer and Data Analyst. I also have advanced knowledge in process automation, using tools such as n8n.
+I am a fifth-semester Computer Science student with a strong desire to learn and a determination to improve my skills in the technology field. I am enhancing my knowledge in Python, Java, HTML/CSS, JavaScript, and MySQL as part of my programming journey, and working toward building my career as a Full-Stack developer and Data Analyst. I also have advanced knowledge in process automation, using tools such as n8n.
 <br> Beyond coding, I have a great passion for language proficiency. I speak English (B1), French (B1), and Japanese (A1), and I hope to connect with people from different cultures and travel the world — I believe technology can help me achieve that. Debugging a program or learning a new phrase are challenges that help me grow professionally.
 
 <p align="left">
