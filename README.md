@@ -34,6 +34,7 @@ I am a fifth-semester Computer Science student with a strong desire to learn and
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaBrandao18&theme=dark"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaBrandao18&theme=dark"/>
 </p>
+
 ---
 
 ### ⌨️🖱️ Languages and Technologies
