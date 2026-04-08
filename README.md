@@ -2,8 +2,7 @@
 
 **`Computer Science Student`**
 
-I am a fifth-semester Computer Science student with a strong desire to learn and a determination to improve my skills in the technology field. I am enhancing my knowledge in Python, Java, HTML/CSS, JavaScript, and MySQL as part of my programming journey, and working toward building my career as a Full-Stack developer and Data Analyst. I also have advanced knowledge in process automation, using tools such as n8n.
-<br> Beyond coding, I have a great passion for language proficiency. I speak English (B1), French (B1), and Japanese (A1), and I hope to connect with people from different cultures and travel the world — I believe technology can help me achieve that. Debugging a program or learning a new phrase are challenges that help me grow professionally.
+I am a Junior Analyst and computer science student in the 5th semester focusing on Process Automation and Systems Integration. Work/study construction of workflows in n8n, automations with webhooks, consumption and integration of REST APIs in Python and JavaScript, data processing in JSON, and automation routines to reduce operational time and process standardization.<br> In web development, I have been studying even more JavaScript HTML/CSS, building projects and consolidating technical base with Python, Java and Relational Database (MySQL). Currently I am also expanding my repertoire in Web3/Blockchain, seeking to understand where it makes sense to integrate technology, automation and products. 
 
 <p align="left">
     <a href="https://github.com/MariaBrandao18?tab=repositories&sort=stargazers">
