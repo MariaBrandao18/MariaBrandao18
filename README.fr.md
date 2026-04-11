@@ -67,7 +67,6 @@ apprentissage: Web3 / Solidity / Smart Contracts
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=4A7C59)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4A7C59)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=4A7C59)
-![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=2D6A9F)
 
 **Backend & Données**
 
@@ -82,11 +81,6 @@ apprentissage: Web3 / Solidity / Smart Contracts
 ![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=4A7C59)
 ![Claude API](https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=anthropic&logoColor=2D6A9F)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2D6A9F)
-
-**Web3**
-
-![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=4A7C59)
-![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=for-the-badge&logo=hardhat&logoColor=4A7C59)
 
 ---
 
