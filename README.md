@@ -1,115 +1,383 @@
-# 🖥️ Maria Brandão
-
-**`Computer Science Student`**
-
-I am a Junior Analyst and computer science student in the 5th semester focusing on Process Automation and Systems Integration. Work/study construction of workflows in n8n, automations with webhooks, consumption and integration of REST APIs in Python and JavaScript, data processing in JSON, and automation routines to reduce operational time and process standardization.<br> In web development, I have been studying even more JavaScript HTML/CSS, building projects and consolidating technical base with Python, Java and Relational Database (MySQL). Currently I am also expanding my repertoire in Web3/Blockchain, seeking to understand where it makes sense to integrate technology, automation and products. 
-
-<p align="left">
-    <a href="https://github.com/MariaBrandao18?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="GitHub Total Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MariaBrandao18?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/MariaBrandao18?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MariaBrandao18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://linkedin.com/in/maria-brandão-48b78a2b5">
-        <img
-          alt="LinkedIn"
-          title="My LinkedIn"
-          src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
-
----
-<p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaBrandao18&theme=dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaBrandao18&theme=dark"/>
-</p>
+<!-- Language selector -->
+<div align="right">
+  <a href="#portuguese">🇧🇷 PT</a> &nbsp;|&nbsp;
+  <a href="#english">🇺🇸 EN</a> &nbsp;|&nbsp;
+  <a href="#french">🇫🇷 FR</a>
+</div>
 
 ---
 
-### ⌨️🖱️ Languages and Technologies
+<!-- ======================================================= -->
+<!--                    PORTUGUÊS                            -->
+<!-- ======================================================= -->
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JSON" 
-    title="JSON"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
+<a name="portuguese"></a>
 
-<br/>
-<br/>
+```
+███╗   ███╗ █████╗ ██████╗ ██╗ █████╗     ██████╗ ██████╗  █████╗ ███╗   ██╗██████╗  █████╗  ██████╗
+████╗ ████║██╔══██╗██╔══██╗██║██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗
+██╔████╔██║███████║██████╔╝██║███████║    ██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║███████║██║   ██║
+██║╚██╔╝██║██╔══██║██╔══██╗██║██╔══██║    ██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║██╔══██║██║   ██║
+██║ ╚═╝ ██║██║  ██║██║  ██║██║██║  ██║    ██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝██║  ██║╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=900&color=4A7C59&center=true&vCenter=true&multiline=true&width=680&height=55&lines=Analista+de+TI+Junior+%7C+Estudante+de+CC+%40+UniCEUB;Backend+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%A3o+com+IA+%7C+Web3)](https://git.io/typing-svg)
+
+---
+
+### `$ whoami`
+
+```yaml
+nome:        Maria Brandão
+localização: Brasília, DF — Brasil
+cargo:       Analista de TI Junior @ Make It Simple Better Ltda
+formação:    Ciência da Computação — UniCEUB (previsão 2027)
+foco:        Backend · Automação de Processos · Integração com IA
+aprendendo:  Web3 / Solidity / Smart Contracts
+```
+
+---
+
+### `$ cat stats.log`
+
+<div align="center">
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaBrandao18&theme=github_dark)
+![Linguagem mais usada](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaBrandao18&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaBrandao18&hide_border=true&ring=4A7C59&fire=2D6A9F&currStreakNum=4A7C59&currStreakLabel=4A7C59&sideNums=4A7C59&sideLabels=4A7C59&dates=888888&background=0d1117&stroke=4A7C59)
+
+</div>
+
+---
+
+### `$ cat activity.log`
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaBrandao18&bg_color=0d1117&color=4A7C59&line=2D6A9F&point=4A7C59&area=true&area_color=4A7C59&hide_border=true)
+
+</div>
+
+---
+
+### `$ ls tech-stack/`
+
+**Linguagens**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=4A7C59)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4A7C59)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=4A7C59)
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=2D6A9F)
+
+**Backend & Dados**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=4A7C59)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=4A7C59)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=2D6A9F)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=4A7C59)
+![REST API](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=4A7C59)
+
+**Automação & IA**
+
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=4A7C59)
+![Claude API](https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=anthropic&logoColor=2D6A9F)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2D6A9F)
+
+**Web3**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=4A7C59)
+![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=for-the-badge&logo=hardhat&logoColor=4A7C59)
+
+---
+
+### `$ ls projects/`
+
+| Projeto | Stack | Descrição | Link |
+|---------|-------|-----------|------|
+| **ReelPulse** | TypeScript · Supabase · n8n | Automação de análise de conteúdo via Instagram Scraper + AI pipeline | [→ repo](https://github.com/MariaBrandao18/ReelPulse) |
+| **gov_sgea_main** | Next.js · PostgreSQL · RBAC | Sistema de gestão com controle de acesso baseado em papéis | [→ repo](https://github.com/MariaBrandao18/gov_sgea_main) |
+| **AgenciaViagem2.0** | Node.js · REST API | Backend de agência com integração de APIs externas | [→ repo](https://github.com/MariaBrandao18/AgenciaViagem2.0) |
+| **Aura Launch Control** | TypeScript · Supabase · JWT | Plataforma com autenticação e segurança por tokens | 🔒 privado |
+
+---
+
+### `$ cat config/ai-setup.yaml`
+
+```yaml
+automation_engine:  n8n (self-hosted no VPS)
+ai_integration:     Claude API + prompt engineering em produção
+security_focus:     RBAC · JWT · auditoria de controle de acesso
+estudo_atual:       Solidity · Hardhat · ERC-20 · Smart Contracts
+os:                 Ubuntu 24.04 LTS
+```
+
+---
+
+### `$ cat links.txt`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2D6A9F)](https://linkedin.com/in/maria-brandão-48b78a2b5)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4A7C59)](https://github.com/MariaBrandao18)
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=MariaBrandao18&style=for-the-badge&label=VISITORS&color=0d1117&labelColor=4A7C59)](https://github.com/MariaBrandao18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=4000&pause=1000&color=2D6A9F&center=true&vCenter=true&width=600&height=28&lines=construindo+coisas+que+realmente+funcionam.)](https://git.io/typing-svg)
+
+<div align="right"><a href="#portuguese">↑ voltar ao topo</a></div>
+
+---
+---
+
+<!-- ======================================================= -->
+<!--                      ENGLISH                            -->
+<!-- ======================================================= -->
+
+<a name="english"></a>
+
+```
+███╗   ███╗ █████╗ ██████╗ ██╗ █████╗     ██████╗ ██████╗  █████╗ ███╗   ██╗██████╗  █████╗  ██████╗
+████╗ ████║██╔══██╗██╔══██╗██║██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗
+██╔████╔██║███████║██████╔╝██║███████║    ██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║███████║██║   ██║
+██║╚██╔╝██║██╔══██║██╔══██╗██║██╔══██║    ██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║██╔══██║██║   ██║
+██║ ╚═╝ ██║██║  ██║██║  ██║██║██║  ██║    ██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝██║  ██║╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=900&color=4A7C59&center=true&vCenter=true&multiline=true&width=680&height=55&lines=Junior+IT+Analyst+%7C+CS+Student+%40+UniCEUB;Backend+%7C+Automation+%7C+AI+Integration+%7C+Web3)](https://git.io/typing-svg)
+
+---
+
+### `$ whoami`
+
+```yaml
+name:       Maria Brandão
+location:   Brasília, DF — Brazil
+role:       Junior IT Analyst @ Make It Simple Better Ltda
+education:  Computer Science — UniCEUB (expected 2027)
+focus:      Backend Development · Process Automation · AI Integration
+learning:   Web3 / Solidity / Smart Contracts
+```
+
+---
+
+### `$ cat stats.log`
+
+<div align="center">
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaBrandao18&theme=github_dark)
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaBrandao18&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaBrandao18&hide_border=true&ring=4A7C59&fire=2D6A9F&currStreakNum=4A7C59&currStreakLabel=4A7C59&sideNums=4A7C59&sideLabels=4A7C59&dates=888888&background=0d1117&stroke=4A7C59)
+
+</div>
+
+---
+
+### `$ cat activity.log`
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaBrandao18&bg_color=0d1117&color=4A7C59&line=2D6A9F&point=4A7C59&area=true&area_color=4A7C59&hide_border=true)
+
+</div>
+
+---
+
+### `$ ls tech-stack/`
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=4A7C59)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4A7C59)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=4A7C59)
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=2D6A9F)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=4A7C59)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=4A7C59)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=2D6A9F)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=4A7C59)
+![REST API](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=4A7C59)
+
+**Automation & AI**
+
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=4A7C59)
+![Claude API](https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=anthropic&logoColor=2D6A9F)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2D6A9F)
+
+**Web3**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=4A7C59)
+![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=for-the-badge&logo=hardhat&logoColor=4A7C59)
+
+---
+
+### `$ ls projects/`
+
+| Project | Stack | Description | Link |
+|---------|-------|-------------|------|
+| **ReelPulse** | TypeScript · Supabase · n8n | Content analysis automation via Instagram Scraper + AI pipeline | [→ repo](https://github.com/MariaBrandao18/ReelPulse) |
+| **gov_sgea_main** | Next.js · PostgreSQL · RBAC | Management system with role-based access control | [→ repo](https://github.com/MariaBrandao18/gov_sgea_main) |
+| **AgenciaViagem2.0** | Node.js · REST API | Travel agency backend with third-party API integration | [→ repo](https://github.com/MariaBrandao18/AgenciaViagem2.0) |
+| **Aura Launch Control** | TypeScript · Supabase · JWT | Platform with token-based authentication and security | 🔒 private |
+
+---
+
+### `$ cat config/ai-setup.yaml`
+
+```yaml
+automation_engine:  n8n (self-hosted on VPS)
+ai_integration:     Claude API + prompt engineering in production
+security_focus:     RBAC · JWT · access control audit
+current_study:      Solidity · Hardhat · ERC-20 · Smart Contracts
+os:                 Ubuntu 24.04 LTS
+```
+
+---
+
+### `$ cat links.txt`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2D6A9F)](https://linkedin.com/in/maria-brandão-48b78a2b5)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4A7C59)](https://github.com/MariaBrandao18)
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=MariaBrandao18&style=for-the-badge&label=VISITORS&color=0d1117&labelColor=4A7C59)](https://github.com/MariaBrandao18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=4000&pause=1000&color=2D6A9F&center=true&vCenter=true&width=600&height=28&lines=building+things+that+actually+work.)](https://git.io/typing-svg)
+
+<div align="right"><a href="#english">↑ back to top</a></div>
+
+---
+---
+
+<!-- ======================================================= -->
+<!--                     FRANÇAIS                            -->
+<!-- ======================================================= -->
+
+<a name="french"></a>
+
+```
+███╗   ███╗ █████╗ ██████╗ ██╗ █████╗     ██████╗ ██████╗  █████╗ ███╗   ██╗██████╗  █████╗  ██████╗
+████╗ ████║██╔══██╗██╔══██╗██║██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗
+██╔████╔██║███████║██████╔╝██║███████║    ██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║███████║██║   ██║
+██║╚██╔╝██║██╔══██║██╔══██╗██║██╔══██║    ██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║██╔══██║██║   ██║
+██║ ╚═╝ ██║██║  ██║██║  ██║██║██║  ██║    ██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝██║  ██║╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=900&color=4A7C59&center=true&vCenter=true&multiline=true&width=680&height=55&lines=Analyste+IT+Junior+%7C+%C3%89tudiante+en+Info+%40+UniCEUB;Backend+%7C+Automatisation+%7C+Int%C3%A9gration+IA+%7C+Web3)](https://git.io/typing-svg)
+
+---
+
+### `$ whoami`
+
+```yaml
+nom:           Maria Brandão
+localisation:  Brasília, DF — Brésil
+poste:         Analyste IT Junior @ Make It Simple Better Ltda
+formation:     Informatique — UniCEUB (prévision 2027)
+focus:         Développement Backend · Automatisation · Intégration IA
+apprentissage: Web3 / Solidity / Smart Contracts
+```
+
+---
+
+### `$ cat stats.log`
+
+<div align="center">
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaBrandao18&theme=github_dark)
+![Langage le plus utilisé](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaBrandao18&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaBrandao18&hide_border=true&ring=4A7C59&fire=2D6A9F&currStreakNum=4A7C59&currStreakLabel=4A7C59&sideNums=4A7C59&sideLabels=4A7C59&dates=888888&background=0d1117&stroke=4A7C59)
+
+</div>
+
+---
+
+### `$ cat activity.log`
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaBrandao18&bg_color=0d1117&color=4A7C59&line=2D6A9F&point=4A7C59&area=true&area_color=4A7C59&hide_border=true)
+
+</div>
+
+---
+
+### `$ ls tech-stack/`
+
+**Langages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=4A7C59)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4A7C59)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=4A7C59)
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=2D6A9F)
+
+**Backend & Données**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=4A7C59)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=4A7C59)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=2D6A9F)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=4A7C59)
+![REST API](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=4A7C59)
+
+**Automatisation & IA**
+
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=4A7C59)
+![Claude API](https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=anthropic&logoColor=2D6A9F)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2D6A9F)
+
+**Web3**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=4A7C59)
+![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=for-the-badge&logo=hardhat&logoColor=4A7C59)
+
+---
+
+### `$ ls projects/`
+
+| Projet | Stack | Description | Lien |
+|--------|-------|-------------|------|
+| **ReelPulse** | TypeScript · Supabase · n8n | Automatisation d'analyse de contenu via Instagram Scraper + pipeline IA | [→ repo](https://github.com/MariaBrandao18/ReelPulse) |
+| **gov_sgea_main** | Next.js · PostgreSQL · RBAC | Système de gestion avec contrôle d'accès basé sur les rôles | [→ repo](https://github.com/MariaBrandao18/gov_sgea_main) |
+| **AgenciaViagem2.0** | Node.js · REST API | Backend d'agence de voyage avec intégration d'APIs tierces | [→ repo](https://github.com/MariaBrandao18/AgenciaViagem2.0) |
+| **Aura Launch Control** | TypeScript · Supabase · JWT | Plateforme avec authentification et sécurité par tokens | 🔒 privé |
+
+---
+
+### `$ cat config/ai-setup.yaml`
+
+```yaml
+moteur_automation:  n8n (auto-hébergé sur VPS)
+integration_ia:     Claude API + prompt engineering en production
+securite:           RBAC · JWT · audit de contrôle d'accès
+etude_actuelle:     Solidity · Hardhat · ERC-20 · Smart Contracts
+os:                 Ubuntu 24.04 LTS
+```
+
+---
+
+### `$ cat links.txt`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2D6A9F)](https://linkedin.com/in/maria-brandão-48b78a2b5)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4A7C59)](https://github.com/MariaBrandao18)
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=MariaBrandao18&style=for-the-badge&label=VISITORS&color=0d1117&labelColor=4A7C59)](https://github.com/MariaBrandao18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=4000&pause=1000&color=2D6A9F&center=true&vCenter=true&width=600&height=28&lines=construire+des+choses+qui+fonctionnent+vraiment.)](https://git.io/typing-svg)
+
+<div align="right"><a href="#french">↑ retour en haut</a></div>
