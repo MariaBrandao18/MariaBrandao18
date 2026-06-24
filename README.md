@@ -91,6 +91,7 @@ learning:   Web3 / Solidity / Smart Contracts
 | **ReelPulse** | TypeScript · Supabase · n8n | Content analysis automation via Instagram Scraper + AI pipeline | [→ repo](https://github.com/MariaBrandao18/ReelPulse) |
 | **gov_sgea_main** | Next.js · PostgreSQL · RBAC | Management system with role-based access control | [→ repo](https://github.com/MariaBrandao18/gov_sgea_main) |
 | **AgenciaViagem2.0** | Node.js · REST API | Travel agency backend with third-party API integration | [→ repo](https://github.com/MariaBrandao18/AgenciaViagem2.0) |
+| **eventbday** | Next.js · Supabase · TypeScript · Resend | Full-stack platform for managing birthday events with RSVPs, gift lists, polls and invite tokens | [→ repo](https://github.com/MariaBrandao18/eventbday) |
 
 ---
 
