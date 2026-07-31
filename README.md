@@ -25,7 +25,6 @@
 ```yaml
 name:       Maria Brandão
 location:   Brasília, DF — Brazil
-role:       Junior IT Analyst @ Make It Simple Better Ltda
 education:  Computer Science — UniCEUB (expected 2027)
 focus:      Backend Development · Process Automation · AI Integration
 learning:   Web3 / Solidity / Smart Contracts
