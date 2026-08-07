@@ -16,7 +16,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=900&color=4A7C59&center=true&vCenter=true&multiline=true&width=680&height=55&lines=Junior+IT+Analyst+%7C+CS+Student+%40+UniCEUB;Backend+%7C+Automation+%7C+AI+Integration+%7C+Web3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=900&color=4A7C59&center=true&vCenter=true&multiline=true&width=680&height=55&lines=Full-Stack+Developer+%7C+CS+Student+%40+UniCEUB;Backend+%7C+Automation+%7C+AI+Integration+%7C+Web3)](https://git.io/typing-svg)
 
 ---
 
@@ -25,8 +25,9 @@
 ```yaml
 name:       Maria Brandão
 location:   Brasília, DF — Brazil
+role:       Full-Stack Developer @ Make It Simple Better Ltda
 education:  Computer Science — UniCEUB (expected 2027)
-focus:      Backend Development · Process Automation · AI Integration
+focus:      Full-Stack Development · Process Automation · AI Integration
 learning:   Web3 / Solidity / Smart Contracts
 ```
 
@@ -43,7 +44,7 @@ learning:   Web3 / Solidity / Smart Contracts
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaBrandao18&hide_border=true&ring=4A7C59&fire=2D6A9F&currStreakNum=4A7C59&currStreakLabel=4A7C59&sideNums=4A7C59&sideLabels=4A7C59&dates=888888&background=0d1117&stroke=4A7C59)
+![Streak](https://streak-stats.demolab.com/?user=MariaBrandao18&hide_border=true&ring=4A7C59&fire=2D6A9F&currStreakNum=4A7C59&currStreakLabel=4A7C59&sideNums=4A7C59&sideLabels=4A7C59&dates=888888&background=0d1117&stroke=4A7C59)
 
 </div>
 
@@ -53,7 +54,7 @@ learning:   Web3 / Solidity / Smart Contracts
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaBrandao18&bg_color=0d1117&color=4A7C59&line=2D6A9F&point=4A7C59&area=true&area_color=4A7C59&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaBrandao18&bg_color=0d1117&color=4A7C59&line=2D6A9F&point=4A7C59&area=true&area_color=4A7C59&hide_border=true&days=60)
 
 </div>
 
@@ -90,7 +91,7 @@ learning:   Web3 / Solidity / Smart Contracts
 | **ReelPulse** | TypeScript · Supabase · n8n | Content analysis automation via Instagram Scraper + AI pipeline | [→ repo](https://github.com/MariaBrandao18/ReelPulse) |
 | **gov_sgea_main** | Next.js · PostgreSQL · RBAC | Management system with role-based access control | [→ repo](https://github.com/MariaBrandao18/gov_sgea_main) |
 | **AgenciaViagem2.0** | Node.js · REST API | Travel agency backend with third-party API integration | [→ repo](https://github.com/MariaBrandao18/AgenciaViagem2.0) |
-| **eventbday** | Next.js · Supabase · TypeScript · Resend | Full-stack platform for managing birthday events with RSVPs, gift lists, polls and invite tokens | [→ repo](https://github.com/MariaBrandao18/eventbday) |
+| **eventbday-opensource** | Next.js · Supabase · TypeScript · Resend | Full-stack platform for managing birthday events with RSVPs, gift lists, polls and invite tokens | [→ repo](https://github.com/MariaBrandao18/eventbday-opensource) |
 
 ---
 

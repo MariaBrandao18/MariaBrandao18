@@ -16,7 +16,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=900&color=4A7C59&center=true&vCenter=true&multiline=true&width=680&height=55&lines=Analista+de+TI+Junior+%7C+Estudante+de+CC+%40+UniCEUB;Backend+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%A3o+com+IA+%7C+Web3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=900&color=4A7C59&center=true&vCenter=true&multiline=true&width=680&height=55&lines=Desenvolvedor+Full-Stack+%7C+Estudante+de+CC+%40+UniCEUB;Backend+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%A3o+com+IA+%7C+Web3)](https://git.io/typing-svg)
 
 ---
 
@@ -25,9 +25,9 @@
 ```yaml
 nome:        Maria Brandão
 localização: Brasília, DF — Brasil
-cargo:       Analista de TI Junior @ Make It Simple Better Ltda
+cargo:       Desenvolvedor Full-Stack @ Make It Simple Better Ltda
 formação:    Ciência da Computação — UniCEUB (previsão 2027)
-foco:        Backend · Automação de Processos · Integração com IA
+foco:        Desenvolvimento Full-Stack · Automação de Processos · Integração com IA
 aprendendo:  Web3 / Solidity / Smart Contracts
 ```
 
@@ -44,7 +44,7 @@ aprendendo:  Web3 / Solidity / Smart Contracts
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaBrandao18&hide_border=true&ring=4A7C59&fire=2D6A9F&currStreakNum=4A7C59&currStreakLabel=4A7C59&sideNums=4A7C59&sideLabels=4A7C59&dates=888888&background=0d1117&stroke=4A7C59)
+![Streak](https://streak-stats.demolab.com/?user=MariaBrandao18&hide_border=true&ring=4A7C59&fire=2D6A9F&currStreakNum=4A7C59&currStreakLabel=4A7C59&sideNums=4A7C59&sideLabels=4A7C59&dates=888888&background=0d1117&stroke=4A7C59)
 
 </div>
 
@@ -54,7 +54,7 @@ aprendendo:  Web3 / Solidity / Smart Contracts
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaBrandao18&bg_color=0d1117&color=4A7C59&line=2D6A9F&point=4A7C59&area=true&area_color=4A7C59&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaBrandao18&bg_color=0d1117&color=4A7C59&line=2D6A9F&point=4A7C59&area=true&area_color=4A7C59&hide_border=true&days=60)
 
 </div>
 
@@ -91,7 +91,7 @@ aprendendo:  Web3 / Solidity / Smart Contracts
 | **ReelPulse** | TypeScript · Supabase · n8n | Automação de análise de conteúdo via Instagram Scraper + AI pipeline | [→ repo](https://github.com/MariaBrandao18/ReelPulse) |
 | **gov_sgea_main** | Next.js · PostgreSQL · RBAC | Sistema de gestão com controle de acesso baseado em papéis | [→ repo](https://github.com/MariaBrandao18/gov_sgea_main) |
 | **AgenciaViagem2.0** | Node.js · REST API | Backend de agência com integração de APIs externas | [→ repo](https://github.com/MariaBrandao18/AgenciaViagem2.0) |
-| **eventbday** | Next.js · Supabase · TypeScript · Resend | Plataforma full-stack para gerenciar eventos de aniversário com RSVPs, lista de presentes, enquetes e tokens de convite | [→ repo](https://github.com/MariaBrandao18/eventbday) |
+| **eventbday-opensource** | Next.js · Supabase · TypeScript · Resend | Plataforma full-stack para gerenciar eventos de aniversário com RSVPs, lista de presentes, enquetes e tokens de convite | [→ repo](https://github.com/MariaBrandao18/eventbday-opensource) |
 
 ---
 
