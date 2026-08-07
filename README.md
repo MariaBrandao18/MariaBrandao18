@@ -54,7 +54,7 @@ learning:   Web3 / Solidity / Smart Contracts
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaBrandao18&bg_color=0d1117&color=4A7C59&line=2D6A9F&point=4A7C59&area=true&area_color=4A7C59&hide_border=true&days=60)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MariaBrandao18&bg_color=0d1117&color=4A7C59&line=2D6A9F&point=4A7C59&area=true&area_color=4A7C59&hide_border=true&days=30)
 
 </div>
 
