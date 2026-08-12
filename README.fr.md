@@ -25,7 +25,7 @@
 ```yaml
 nom:           Maria Brandão
 localisation:  Brasília, DF — Brésil
-poste:         Développeuse Full-Stack @ Make It Simple Better Ltda
+poste:         Développeuse Full-Stack
 formation:     Informatique — UniCEUB (prévision 2027)
 focus:         Développement Full-Stack · Automatisation · Intégration IA
 apprentissage: Web3 / Solidity / Smart Contracts

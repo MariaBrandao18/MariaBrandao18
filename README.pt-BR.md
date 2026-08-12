@@ -25,7 +25,7 @@
 ```yaml
 nome:        Maria Brandão
 localização: Brasília, DF — Brasil
-cargo:       Desenvolvedor Full-Stack @ Make It Simple Better Ltda
+cargo:       Desenvolvedor Full-Stack
 formação:    Ciência da Computação — UniCEUB (previsão 2027)
 foco:        Desenvolvimento Full-Stack · Automação de Processos · Integração com IA
 aprendendo:  Web3 / Solidity / Smart Contracts
